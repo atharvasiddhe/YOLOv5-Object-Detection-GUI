@@ -42,7 +42,7 @@ This project demonstrates object detection using the YOLOv5 model in a Tkinter-b
 #Installation
 
 1)Clone the repository:
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/atharvasiddhe/YOLOv5-Object-Detection-GUI
 cd yourproject
 
 2)Create a virtual environment (optional but recommended):
